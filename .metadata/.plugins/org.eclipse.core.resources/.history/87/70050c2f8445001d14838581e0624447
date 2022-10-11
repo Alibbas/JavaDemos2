@@ -1,0 +1,11 @@
+
+public class CustomerManager {
+	public void list() {
+		System.out.println("Müþteri listelendi.");
+	}
+
+	public void add() {
+		System.out.println("Müþteri eklendi.");
+	}
+
+}
